@@ -16,7 +16,7 @@ Il est très utile car permet de travailler avec un système de branches, permet
 	 
 
 - github : Github est un logiciel et une plateforme web permettant grâce à un système de "pull" et de "push" de déposer les différentes versions du code des projets en cours.
-	   
+	 
 #### Utilisation et commandes
 
 - git init : initialise la détection de git
@@ -32,19 +32,23 @@ Il est très utile car permet de travailler avec un système de branches, permet
 - git pull origin master : récupère depuis github, sur le serveur origin, dans la branch master
 - git merge dev : Fusionne la branch dev dans la master
 
-Donc pour résumé, afin de maintenir un espace de travail sur, on commence par vérifier l'état de git (git status), puis on prépare les fichiers pour le commit (git add -A), 
+Donc pour résumé, afin de maintenir un espace de travail sur, on commence par vérifier l'état de git (git status), puis on prépare les fichiers pour le commit (git add -A),
+on fait le commit (git commit -m "mon message" et on affiche les log (git log) pour être s'assurer que cela fonctionne.
+Il ne reste plus qu'a faire un push vers git hub pour mettre à jour la branche de travail (git push origin dev).
+On pourra enfin faire une pull request depuis github afin de mettre à jour la branche master et la récupérer avec un git pull vers notre branche dev afin de travailler sur une branche saine.
+
+### Le Front-End
+
+Le front-end est la section destiné à l'affichage utilisateur, la partie graphique en somme.
+Elle comprend donc le HTML (HyperText Markup Launguage), le language permettant de créer les liens entre les pages, le CSS (Cascading Style Sheets), le language permettant la mises en pages 
+du language HTML et le JavaScript, un language orienté objet permettant de dynamiser les pages web.
+Le développeur front-end a à disposition différents Framework (jQuery, Bootstrap...etc) lui permettant de gagné du temps dans le dévoppement.
 
 
+### Le Back-End
 
-3. ligne de commande
-4. html
-5. css
-6. javascript
-7. php
-8. intégration
-9. front-end
-1. backend
-2. client
-3. serveur
-4. base de données
+Le back-end est la partie invisible à l'utilisateur, elle comprend les applications web, les bases de données, les serveur d'hebergements.
+Pour développer cela il existe différents language, tels que PHP, SQL, Ruby ou encore Python.
+Comme pour le front-end le développeur back-end peut utiliser différents Framework dans le même but visé, gagné du temps.
+
 
