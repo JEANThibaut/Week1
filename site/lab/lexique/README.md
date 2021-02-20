@@ -1,14 +1,14 @@
 
-#Lexique du vocabulaire du Web
+# Lexique du vocabulaire du Web
 
-* Ce Fichier a pour but de répértorier les différents mots et conceptes en rapport avec l'apprentissage effectué la première semaine de formation.
+ Ce Fichier a pour but de répértorier les différents mots et conceptes en rapport avec l'apprentissage effectué la première semaine de formation.
 Il pourra être étoffé par la suite et servira de rappel en cas de nécessité.
 
-##Lexique
+## Lexique
 
 Vous trouverez ici la liste des termes employés dans le domaine du web ainsi que leurs définitions.
 
-###git/github
+### git/github
 
 - git : Git est un logiciel de versionning permettant de sauvegarder l'historique de modification d'un projet. 
 Cela permet de pouvoir rapidement identifier les différents changements effectués afin de revenir à une version précédente en cas de besoin.
@@ -17,7 +17,7 @@ Il est très utile car permet de travailler avec un système de branches, permet
 
 - github : Github est un logiciel et une plateforme web permettant grâce à un système de "pull" et de "push" de déposer les différentes versions du code des projets en cours.
 	   
-####Utilisation et commandes
+#### Utilisation et commandes
 
 - git init : initialise la détection de git
 - git status: Etat de git, permet de voir les modifications apporté aux fichiers
