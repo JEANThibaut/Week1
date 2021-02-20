@@ -42,6 +42,8 @@ On pourra enfin faire un **pull request** depuis github afin de mettre à jour l
 Le front-end est la section destiné à l'affichage utilisateur, la partie graphique en somme.
 Elle comprend donc le **HTML** *(HyperText Markup Launguage)*, le language permettant de créer les liens entre les pages, le **CSS** *(Cascading Style Sheets)*, le language permettant la mises en pages 
 du language HTML et le **JavaScript**, un language orienté objet permettant de dynamiser les pages web.
+C'est au développeur front-end que revient le rôle d'intégrer les différents languages dans le code HTML, afin de rendre l'expérience utilisateur la plus fluide possible tout en respectant le 
+cahier des charges imposé par le client.
 Le développeur front-end a à disposition différents Framework (jQuery, Bootstrap...etc) lui permettant de gagné du temps dans le dévoppement.
 
 
@@ -52,3 +54,14 @@ Pour développer cela il existe différents language, tels que **PHP**, **SQL**,
 Comme pour le front-end le développeur back-end peut utiliser différents Framework dans le même but visé, gagné du temps.
 
 
+### Le modèle client/serveur/base de donnée
+
+Afin de naviguer sur le web, les utilisateurs doivent passer par différentes étapes de transmission de l'information:
+
+
+Le client est le navigateur Web, il interprète le code HTML, CSS et Javascript pour rendre un affichage dynamique à l'utilisateur.
+A l'aide du protocole **HTTP** (Hypertext Transfert Protocol), le client envoi des requêtes via internet à des serveurs physique, mises à disposition par un hébergeur.
+Le serveur interprète alors le language back-end *(PHP)* et envoi une requête à la base de données.
+La base de données renvoi alors les informations au serveur *(SQL)* qui renvoi à son tour une page web dynamisé via internet jusqu'au client qui affiche la page à l'utilisateur.
+
+ 
