@@ -12,13 +12,14 @@ Vous trouverrez donc a liste des termes récupant dans le lexique ainsi qu'un d�
 Vous trouverez ici la liste des termes employés dans le domaine du web ainsi que leurs définitions.
 
 - **Back-end** : La partie invisible pour l'utilisateur
-- **Base de données** : 
+- **Base de données** : Système de stockage de données à distances
 - **CSS** : *Cascading Style Sheets* Language front-end utilisé pour mettre en Pages le code HTML
-- **Client** : 
-- **Framework** : 
+- **Client** : Système permettant à l'utilisateur d'interroger un serveur à distance via une interface graphique
+- **Framework** : Ensemble d'outils permettant la création d'un logiciel, d'une application web ou d'une page web
 - **Front-end** : La partie graphique visible par l'utilisateur
 - **git** : Logiciel de versionning
-- **github** : Logiciel de gestion et plateforme de gestion de sauvegarde de projets- **Internet** : Réseau reliant plusieurs machine afin d'échanger des données
+- **github** : Logiciel de gestion et plateforme de gestion de sauvegarde de projets
+- **Internet** : Réseau reliant plusieurs machine afin d'échanger des données
 - **HTML** : *Hypertext Markup Language* Language front-end utiliser pour gérer les liens entre les pages du web
 - **HTTP** : *Hypertext Transfert Protocol* Protocole utilisé pour communiquer sur le Web
 - **intégration** : Principe de "fusion" des différents languages du Web
@@ -26,10 +27,10 @@ Vous trouverez ici la liste des termes employés dans le domaine du web ainsi qu
 - **ligne de commande** : Ensemble de caractères envoyé dans un terminal pour communiquer avec la machine 
 - **Markdow** : Language de traitement de texte, ce fichier est rédigé en Markdown
 - **PHP** : Language de script orienté objet, conçu pour le développement d'application web
-- **Serveur** : 
-- **SQL** : 
+- **Serveur** : Système permettant la communication entre l'utilisateur et les bases de données à l'aide du réseau internet
+- **SQL** : Language permettant de communiquer avec une base de données
 - **Terminal**": Interface utilisateur en lignes de commandes
-- **URL** : 
+- **URL** : Adresse d'un page Web ou d'une page hypertext 
 - **Web** : Servie interne à internet de consultation de pages HTML
 
 
