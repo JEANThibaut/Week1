@@ -1,12 +1,60 @@
 
 # Lexique du vocabulaire du Web
 
- Ce Fichier a pour but de répértorier les différents mots et conceptes en rapport avec l'apprentissage effectué la première semaine de formation.
+Ce Fichier a pour but de répértorier les différents mots et conceptes en rapport avec l'apprentissage effectué la première semaine de formation.
 Il pourra être étoffé par la suite et servira de rappel en cas de nécessité.
+Vous trouverrez donc a liste des termes récupant dans le lexique ainsi qu'un détail dans les rubriques suivantes. 
+
+
 
 ## Lexique
 
 Vous trouverez ici la liste des termes employés dans le domaine du web ainsi que leurs définitions.
+
+- **Back-end** : La partie invisible pour l'utilisateur
+- **Base de données** : 
+- **CSS** : *Cascading Style Sheets* Language front-end utilisé pour mettre en Pages le code HTML
+- **Client** : 
+- **Framework** : 
+- **Front-end** : La partie graphique visible par l'utilisateur
+- **git** : Logiciel de versionning
+- **github** : Logiciel de gestion et plateforme de gestion de sauvegarde de projets- **Internet** : Réseau reliant plusieurs machine afin d'échanger des données
+- **HTML** : *Hypertext Markup Language* Language front-end utiliser pour gérer les liens entre les pages du web
+- **HTTP** : *Hypertext Transfert Protocol* Protocole utilisé pour communiquer sur le Web
+- **intégration** : Principe de "fusion" des différents languages du Web
+- **Javascript** : Language front-end utiliser pour dynamiser une page web
+- **ligne de commande** : Ensemble de caractères envoyé dans un terminal pour communiquer avec la machine 
+- **Markdow** : Language de traitement de texte, ce fichier est rédigé en Markdown
+- **PHP** : Language de script orienté objet, conçu pour le développement d'application web
+- **Serveur** : 
+- **SQL** : 
+- **Terminal**": Interface utilisateur en lignes de commandes
+- **URL** : 
+- **Web** : Servie interne à internet de consultation de pages HTML
+
+
+
+
+## Pour aller plus loin
+ 
+Cette rubrique permet d'approfondir certain concepte et sera étoffé au fil de la formation.
+
+
+### Le Back-End
+
+Le back-end est la partie invisible à l'utilisateur, elle comprend les applications web, les bases de données, les serveur d'hebergements.
+Pour développer cela il existe différents language, tels que **PHP**, **SQL**, **Ruby** ou encore **Python**.
+Comme pour le front-end le développeur back-end peut utiliser différents Framework dans le même but visé, gagné du temps.
+
+
+### Le Front-End
+
+Le front-end est la section destiné à l'affichage utilisateur, la partie graphique en somme.
+Elle comprend donc le **HTML** *(HyperText Markup Launguage)*, le language permettant de créer les liens entre les pages, le **CSS** *(Cascading Style Sheets)*, le language permettant la mises en pages 
+du language HTML et le **JavaScript**, un language orienté objet permettant de dynamiser les pages web.
+C'est au développeur front-end que revient le rôle d'intégrer les différents languages dans le code HTML, afin de rendre l'expérience utilisateur la plus fluide possible tout en respectant le 
+cahier des charges imposé par le client.
+Le développeur front-end a à disposition différents Framework (jQuery, Bootstrap...etc) lui permettant de gagné du temps dans le dévoppement.
 
 ### git/github
 
@@ -37,21 +85,6 @@ on fait le commit *(git commit -m "mon message")* et on affiche les log *(git lo
 Il ne reste plus qu'à faire un **push** vers git hub pour mettre à jour la branche de travail *(git push origin dev)*.
 On pourra enfin faire un **pull request** depuis github afin de mettre à jour la branche master et la récupérer avec un **git pull** vers notre branche dev afin de travailler sur une branche saine.
 
-### Le Front-End
-
-Le front-end est la section destiné à l'affichage utilisateur, la partie graphique en somme.
-Elle comprend donc le **HTML** *(HyperText Markup Launguage)*, le language permettant de créer les liens entre les pages, le **CSS** *(Cascading Style Sheets)*, le language permettant la mises en pages 
-du language HTML et le **JavaScript**, un language orienté objet permettant de dynamiser les pages web.
-C'est au développeur front-end que revient le rôle d'intégrer les différents languages dans le code HTML, afin de rendre l'expérience utilisateur la plus fluide possible tout en respectant le 
-cahier des charges imposé par le client.
-Le développeur front-end a à disposition différents Framework (jQuery, Bootstrap...etc) lui permettant de gagné du temps dans le dévoppement.
-
-
-### Le Back-End
-
-Le back-end est la partie invisible à l'utilisateur, elle comprend les applications web, les bases de données, les serveur d'hebergements.
-Pour développer cela il existe différents language, tels que **PHP**, **SQL**, **Ruby** ou encore **Python**.
-Comme pour le front-end le développeur back-end peut utiliser différents Framework dans le même but visé, gagné du temps.
 
 
 ### Le modèle client/serveur/base de donnée
